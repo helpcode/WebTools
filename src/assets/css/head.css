@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.header-head{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+.demo-grid-head{
+    margin: 45px auto 45px auto;
+}
+.text-center-head{
+    text-align: center;
+    color: #999;
+    background: #e4e4e4;
+    border-bottom: 1px solid #dfdfdf;
+    letter-spacing: 2px;
+}
+.mu-list-head{
+    background: url("http://www.51pptmoban.com/d/file/2014/11/22/cbe98f91bb8b49448237780a94f7fe71.jpg");
+}
+.bottom-bq p{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    margin: 0 auto;
+    color: #c5c5c5;
+    width: 100%;
+    padding: 5px 0;
+}

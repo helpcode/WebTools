@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#footer-component{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 999;
+}

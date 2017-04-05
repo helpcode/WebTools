@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BlogListItem/.idea/BlogListItem.iml" filepath="$PROJECT_DIR$/../BlogListItem/.idea/BlogListItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlogList/.idea/BoogLIst.iml" filepath="$PROJECT_DIR$/../BlogList/.idea/BoogLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Nuxt-js/.idea/Nuxt-js.iml" filepath="$PROJECT_DIR$/../Nuxt-js/.idea/Nuxt-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WebTools.iml" filepath="$PROJECT_DIR$/.idea/WebTools.iml" />
+      <module fileurl="file:///var/www/WebTools-php/.idea/WebTools-php.iml" filepath="/var/www/WebTools-php/.idea/WebTools-php.iml" />
+      <module fileurl="file://$USER_HOME$/hexo-blog/.idea/hexo-blog.iml" filepath="$USER_HOME$/hexo-blog/.idea/hexo-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nuxt/.idea/nuxt.iml" filepath="$PROJECT_DIR$/../nuxt/.idea/nuxt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sui-demotest/.idea/sui-demotest.iml" filepath="$PROJECT_DIR$/../sui-demotest/.idea/sui-demotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sui-test/.idea/sui-test.iml" filepath="$PROJECT_DIR$/../sui-test/.idea/sui-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

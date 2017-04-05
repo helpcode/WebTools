@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.text-center-about{
+    margin-top: 20px;
+    text-align: center;
+    line-height: 24px;
+    padding: 0 60px 20px 60px;
+}
+.text-center-lable-about{
+    margin-top: 0 !important;
+    color: #000000;
+    opacity: 0.7;
+}
+.hr-line-about{
+    margin-bottom: 15px;
+}
+.hr-line-bottom-about{
+    margin-top: 10px;
+}
+.mu-logo-about{
+    width: 40px;
+    height: 40px;
+    background-color: #03a9f4;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 50%;
+}
+.technology-list-about{
+    padding: 18px;
+    opacity: 0.7;
+}
+.technology-icon-about{
+    width: 40px;
+    height: 40px;
+}
+.border-about{
+    border-radius: 50%;
+}
+.send-technology-icon-about{
+    margin-top: 20px;
+}

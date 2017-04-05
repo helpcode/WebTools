@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="WebTools-php" />
+    <orderEntry type="module" module-name="sui-test" />
+    <orderEntry type="module" module-name="nuxt" />
+    <orderEntry type="module" module-name="Nuxt-js" />
+    <orderEntry type="module" module-name="hexo-blog" />
+    <orderEntry type="module" module-name="hexo-blog" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="sui-test" />
+    <orderEntry type="module" module-name="sui-demotest" />
+    <orderEntry type="module" module-name="BoogLIst" />
+    <orderEntry type="module" module-name="BlogListItem" />
+  </component>
+</module>
