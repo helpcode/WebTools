@@ -22,7 +22,8 @@ export default {
                 AboutMeTitle: '开源免费的“工具箱”应用，没啥高逼格原因，兴趣使然所以写！',
                 MuLogoAbout: 'M',
                 UpdateLog: '更新日志',
-                YourChoice: '请选择一个'
+                YourChoice: '请选择一个',
+                GitHubUrl: 'https://github.com/helpcode/WebTools'
             },
             LeftAboutMeSecond: [
                 {

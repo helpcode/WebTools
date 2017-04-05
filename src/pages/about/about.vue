@@ -18,7 +18,9 @@
                     <mu-content-block class="text-center-about">
                         {{$LeftAboutMe.LeftAboutMeFirst.AboutMeTitle}}
                         <br>
-                        <a href="https://github.com/helpcode/WebTools" target="_blank">GitHub</a>
+                        <a :href="$LeftAboutMe.LeftAboutMeFirst.GitHubUrl" target="_blank">
+                            {{$LeftAboutMe.LeftAboutMeSecond[3].Title}}
+                        </a>
                     </mu-content-block>
                 </mu-col>
 
