@@ -237,19 +237,19 @@ export default {
                     LifeToolOtherItemHref: '#/weixin/',
                     LifeToolOtherItemTitle:'微信精选',
                     LifeToolOtherItemIcon:'thumb_up'
-                },
-                {
-                    LifeToolOtherItemID: '6',
-                    LifeToolOtherItemHref: '#/journalism/',
-                    LifeToolOtherItemTitle:'餐饮美食',
-                    LifeToolOtherItemIcon:'free_breakfast'
-                },
-                {
-                    LifeToolOtherItemID: '8',
-                    LifeToolOtherItemHref: '#/journalism/',
-                    LifeToolOtherItemTitle:'邮编查询',
-                    LifeToolOtherItemIcon:'looks_6'
-                },
+                }
+                // {
+                //     LifeToolOtherItemID: '6',
+                //     LifeToolOtherItemHref: '#/journalism/',
+                //     LifeToolOtherItemTitle:'餐饮美食',
+                //     LifeToolOtherItemIcon:'free_breakfast'
+                // },
+                // {
+                //     LifeToolOtherItemID: '8',
+                //     LifeToolOtherItemHref: '#/journalism/',
+                //     LifeToolOtherItemTitle:'邮编查询',
+                //     LifeToolOtherItemIcon:'looks_6'
+                // },
             ]
         }
     }
